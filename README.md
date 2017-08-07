@@ -3,7 +3,9 @@
 
 ## Demo
 http://pf.kakao.com/_QVSTxl
-![image](https://user-images.githubusercontent.com/901975/29018290-839fb136-7b95-11e7-8f8f-3e7c9abcf7d1.png)
+
+![image](https://user-images.githubusercontent.com/901975/29018340-aff5a63c-7b95-11e7-9e55-06cfadbeac0a.png)
+
 
 ## Installation 
 1. cd project_dir
